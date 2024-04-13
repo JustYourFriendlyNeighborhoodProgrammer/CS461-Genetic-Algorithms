@@ -71,3 +71,5 @@ The fitness score of a schedule is the sum of the scores for individual activiti
 ## Conclusion
 
 This project aims to develop an efficient scheduling algorithm using a genetic approach. By considering various constraints and utilizing evolutionary principles, the goal is to produce high-quality schedules for the client agency's activities.
+
+Also Note: This was made with ChatGPT 3.5
